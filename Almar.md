@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Almar
+title: Alamar
 subtitle: il mondo di gioco
 head_image: map_colored.jpg
 ---
@@ -26,7 +26,7 @@ In una località ben nascosta di questa regione è presente **Kamauz**, l'immens
 
 ### Ovest, Oviendel
 
-Qui il Grande muro che protegge il valico. In passato le nazioni confinanti hanno cercato di conquistare Allamar e da allora è stata istituito un solo punto d'accesso per le merci che arrivano da ovest. Questa è una regione di transito, molti sono i viaggiatori che vi passano seguendo la Strada Maestra che porta verso tutte le altre regioni.
+Qui il Grande muro che protegge il valico. In passato le nazioni confinanti hanno cercato di conquistare Alamar e da allora è stata istituito un solo punto d'accesso per le merci che arrivano da ovest. Questa è una regione di transito, molti sono i viaggiatori che vi passano seguendo la Strada Maestra che porta verso tutte le altre regioni.
 
 ### Centrium
 
@@ -40,7 +40,7 @@ Qui sorge l'unica vera città dei nani. Più che sorgere diciamo che si inabissa
 
 ### Le razze
 
-La razza più diffusa è sicuramente quella umana, ma ovunque sono molto presenti anche le altre razze. Molto raro infatti trovare cittadine con una sola razza. Almar è sempre stata una terra di incontri fra razze in quanto ai confini vi sono le vere patrie di queste. La magia in questi luoghi è incredibilmente potente. I miti dicono che da qui è stato creato il resto del mondo e vi siano le tracce di questo grandioso momento. Vi sono infatti resti di costruzioni antichissime che però sembrano non risentire degli anni.
+La razza più diffusa è sicuramente quella umana, ma ovunque sono molto presenti anche le altre razze. Molto raro infatti trovare cittadine con una sola razza. Alamar è sempre stata una terra di incontri fra razze in quanto ai confini vi sono le vere patrie di queste. La magia in questi luoghi è incredibilmente potente. I miti dicono che da qui è stato creato il resto del mondo e vi siano le tracce di questo grandioso momento. Vi sono infatti resti di costruzioni antichissime che però sembrano non risentire degli anni.
 Ogni razza ha la sua teoria su come è nato il mondo e come è nata la loro razza, in pochi sanno la verità e tutta la storia.
 
 ### Il tempo
