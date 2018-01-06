@@ -1,12 +1,12 @@
---- 
+---
 layout: page
-title: Almar 
+title: Almar
 subtitle: il mondo di gioco
-head_image: map.jpg
+head_image: map_colored.jpg
 ---
 
-Molto sta per succedere ad Alamar.
-Le rivolte dei popoli dell'ovest che sono dilaniati da una guerra infinita fra le Case. A nord un antico male pare si stia risvegliando. A est il Popolo del Mare che non attracca più nei porti per motivi ignoti. A sud gli elfi muovono i loro eserciti. Difficilmente ci sarà posto dove vivere in pace.
+Molto sta per accadere ad Alamar.
+Le rivolte dei popoli dell'ovest sono dilaniati da una guerra infinita fra le Case. A nord un antico male pare si stia risvegliando. A est il Popolo del Mare che non attracca più nei porti per motivi ignoti. Mentre a sud gli elfi muovono i loro eserciti. Difficilmente ci sarà posto dove vivere in pace.
 Non si ricordano così tanti misteri e avvenimenti dall'Epoca degli Eroi.
 
 ### Sud, Evellendel
@@ -37,7 +37,7 @@ Qui sorge l'unica vera città dei nani. Più che sorgere diciamo che si inabissa
 La razza più diffusa è sicuramente quella umana, ma ovunque sono molto presenti anche le altre razze. Molto raro infatti trovare cittadine con una sola razza. Almar è sempre stata una terra di incontri fra razze in quanto ai confini vi sono le vere patrie di queste. La magia in questi luoghi è incredibilmente potente. I miti dicono che da qui è stato creato il resto del mondo e vi siano le tracce di questo grandioso momento. Vi sono infatti resti di costruzioni antichissime che però sembrano non risentire degli anni.
 Ogni razza ha la sua teoria su come è nato il mondo e come è nata la loro razza, in pochi sanno la verità e tutta la storia.
 
-![alt](/gdr/images/map.jpg)
+![alt](/gdr/images/map_colored.jpg)
 
 ## Eventi
 
